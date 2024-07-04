@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bappynotes","appId":"1:551947350248:android:611a3db5422fda6f4fd95d","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bappynotes","configurations":{"android":"1:551947350248:android:611a3db5422fda6f4fd95d","ios":"1:551947350248:ios:2f1b6e61cae216fb4fd95d"}}}}}}

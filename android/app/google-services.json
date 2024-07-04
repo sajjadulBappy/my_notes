@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551947350248",
+    "project_id": "bappynotes",
+    "storage_bucket": "bappynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551947350248:android:611a3db5422fda6f4fd95d",
+        "android_client_info": {
+          "package_name": "com.example.my_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFHUJSSvqUMrxV8ZYYssFQj_jimOHxYOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
